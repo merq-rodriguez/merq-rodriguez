@@ -44,6 +44,7 @@
    <img src="https://influxdata.github.io/branding/img/downloads/influxdata-logo--symbol--pool.svg" alt="Influxdb" width="40" height="40"/> 
    
    <img src="https://www.siliconweek.com/wp-content/uploads/2016/11/oracle-logo.jpg" alt="oracle" width="40" height="40"/> 
+   <img src="http://3.bp.blogspot.com/-Ix85v0VprM8/Uv5MYLeNESI/AAAAAAAAJMo/6byKJmT4tx0/s1600/redis318x260_1.png" alt="redis" width="40" height="40"/> 
    
    
 </p>
