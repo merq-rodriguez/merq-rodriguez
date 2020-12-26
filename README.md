@@ -35,12 +35,17 @@
    <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
    <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>  
+   <img src="https://c0.klipartz.com/pngpicture/177/242/gratis-png-lenguaje-de-programacion-de-objetos-java-antiguo-llano-programacion-de-computadoras-programacion-orientada-a-objetos.png" alt="Java" width="40" height="40"/> 
    <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
    <img src="https://w7.pngwing.com/pngs/713/936/png-transparent-spring-framework-representational-state-transfer-java-api-for-restful-web-services-microservices-others-text-trademark-logo-thumbnail.png" alt="spring boot" width="40" height="40"/>
       <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW.png" alt="mysql" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="40" height="40"/> 
    <img src="https://secure.meetupstatic.com/photos/member/2/8/3/3/member_244690291.jpeg" alt="neo4j" width="40" height="40"/> 
    <img src="https://influxdata.github.io/branding/img/downloads/influxdata-logo--symbol--pool.svg" alt="Influxdb" width="40" height="40"/> 
+   
+   <img src="https://www.siliconweek.com/wp-content/uploads/2016/11/oracle-logo.jpg" alt="oracle" width="40" height="40"/> 
+   
+   
 </p>
 
 <p align="center"> 
