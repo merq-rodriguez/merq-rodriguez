@@ -26,6 +26,7 @@
    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="React" width="40" height="40"/>  
    <img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" alt="Nestjs" width="40" height="40"/> 
+   <img        src="https://png2.cleanpng.com/sh/db91a152994630034537b35ea2146e4a/L0KzQYm3WMA6N6d6gpH0aYP2gLBuTfZtaaRwRdRELXX7cb73jPUuf5ZnRdh7YX3oh7F5i71xgaVth9C2YnB3hL3sTgNmapJ4jNtqbj3og8XsjwN0d6N0RadrNnOzcbK6VBY6Pmg3RqcEMEC2QYK3UcU0O2k1T6QBN0W1Qoe1kP5o/kisspng-flask-by-example-web-framework-python-bottle-sebastian-estenssoro-5b6c0aa37f9672.5900311015338072675226.png" alt="Flask python" width="40" height="40"/> 
    <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" alt="React Native" width="40" height="40"/> 
   
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="framer" width="40" height="40"/> 
