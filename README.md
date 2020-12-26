@@ -19,6 +19,8 @@
 
 
 <p align="left">
+   
+   <img src="https://i2.wp.com/windtux.com/wp-content/uploads/2015/12/debian-logo.png?resize=172%2C185&ssl=1" alt="Debian" width="40" height="40"/> 
    <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> 
    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>  
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="css3" width="40" height="40"/> 
