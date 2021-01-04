@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Stiven Rodriguez</h1>
 <h3 align="center">A passionate Software Developer from Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=merq-rodriguez" alt="stivcode" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=merq-rodriguez" alt="stiivcode" /> </p>
 
 - 📫 How to reach me **judrobinx@gmail.com**
 
@@ -24,7 +24,7 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="angularjs" width="40" height="40"/> 
    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>  
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="css3" width="40" height="40"/> 
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+   <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="docker" width="40" height="40"/> 
    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="React" width="40" height="40"/>  
    <img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" alt="Nestjs" width="40" height="40"/> 
