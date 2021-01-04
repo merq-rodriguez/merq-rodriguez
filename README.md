@@ -21,7 +21,7 @@
 <p align="left">
    
    <img src="https://i2.wp.com/windtux.com/wp-content/uploads/2015/12/debian-logo.png?resize=172%2C185&ssl=1" alt="Debian" width="40" height="40"/> 
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="angularjs" width="40" height="40"/> 
    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>  
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="css3" width="40" height="40"/> 
    <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
@@ -34,19 +34,19 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="framer" width="40" height="40"/> 
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
    
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>  
+   <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/> 
+   <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png" alt="mongodb" width="40" height="40"/> 
+   <img src="https://www.vozidea.com/wp-content/uploads/2017/07/nginx.png" alt="nginx" width="40" height="40"/> 
+   <img src="https://ugeek.github.io/blog/images-blog/node.png" alt="nodejs" width="40" height="40"/>  
    <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="40" height="40"/> 
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/> 
    <img src="https://w7.pngwing.com/pngs/713/936/png-transparent-spring-framework-representational-state-transfer-java-api-for-restful-web-services-microservices-others-text-trademark-logo-thumbnail.png" alt="spring boot" width="40" height="40"/>
    <img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW.png" alt="mysql" width="40" height="40"/> 
    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="40" height="40"/> 
    <img src="https://secure.meetupstatic.com/photos/member/2/8/3/3/member_244690291.jpeg" alt="neo4j" width="40" height="40"/> 
    <img src="https://influxdata.github.io/branding/img/downloads/influxdata-logo--symbol--pool.svg" alt="Influxdb" width="40" height="40"/> 
    
-   <img src="https://www.siliconweek.com/wp-content/uploads/2016/11/oracle-logo.jpg" alt="oracle" width="40" height="40"/> 
+   <img src="https://image.winudf.com/v2/image1/Y29tLm9yYWNsZS53ZWJjZW50ZXIuY29udGVudC5hbmRyb2lkX2ljb25fMTU5OTU4MzE3M18wMTI/icon.png?w=170&fakeurl=1" alt="oracle" width="40" height="40"/> 
    <img src="http://3.bp.blogspot.com/-Ix85v0VprM8/Uv5MYLeNESI/AAAAAAAAJMo/6byKJmT4tx0/s1600/redis318x260_1.png" alt="redis" width="40" height="40"/> 
    
    
