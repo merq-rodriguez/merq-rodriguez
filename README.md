@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merq-rodriguez" alt="stiivcode" /> </p>
 
-- 📫 How to reach me **judrobinx@gmail.com**
+- 📫 How to reach me **stiivcode@gmail.com**
 
 - ⚡ Fun fact **I love read and code**
 
