@@ -19,7 +19,7 @@
 
 
 <p align="left">
-   
+   <img src="https://user-images.githubusercontent.com/2752551/30405068-a7733b34-989e-11e7-8f66-7badaf1373ed.png"  width="40" height="40"/>
    <img src="https://i2.wp.com/windtux.com/wp-content/uploads/2015/12/debian-logo.png?resize=172%2C185&ssl=1" alt="Debian" width="40" height="40"/> 
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" alt="angularjs" width="40" height="40"/> 
    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>  
